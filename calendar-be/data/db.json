@@ -5,27 +5,7 @@
       "name": "test",
       "email": "test@test.com",
       "password": "$2b$12$YQ7rvk4FVnLJMs3oQZ66xObwTc.B5e/CM/IK2.MTpwm7Wzjc.xGxS"
-    },
-    {
-      "id": 1752808156800,
-      "name": "Josue",
-      "email": "josue@email.com",
-      "password": "$2b$12$1f2kvyF6WdxUX131qL616eakD61cNpJ31Eo8QCxdv4Ef0qoTkY41a"
-    },
-    {
-      "id": 1752812085709,
-      "email": "josue@email.com",
-      "password": "$2b$12$0bl37/rJo3t6V1Xwdj63ZezzFIJVhIdQj7Fb1u1aty/b2EqeMf5K."
-    },
-    {
-      "id": 1752812256431,
-      "email": "josue@email.com",
-      "password": "$2b$12$7wX1wMp85qX.PtNjMIeWhuQcR7P.zeQs4sa0eU8RzCGRnFmGXSGAm"
-    },
-    {
-      "id": 1752813092825,
-      "password": "$2b$12$kiR827yZskZMJ8GELL1bZ.W8UoBBVAdW2fHdT370nlkhK6oey4U7m"
-    }
+    }    
   ],
   "events": [
     {

@@ -46,7 +46,7 @@ const initialState: EventsState = {
     conditions: {},
     page: {
       pageIndex: 1,
-      size: 25
+      size: 10
     }
   },
   totalPages: 0

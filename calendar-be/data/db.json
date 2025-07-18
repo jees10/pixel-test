@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1752806747345,
+      "name": "test",
+      "email": "test@test.com",
+      "password": "$2b$12$YQ7rvk4FVnLJMs3oQZ66xObwTc.B5e/CM/IK2.MTpwm7Wzjc.xGxS"
+    },
+    {
+      "id": 1752808156800,
+      "name": "Josue",
+      "email": "josue@email.com",
+      "password": "$2b$12$1f2kvyF6WdxUX131qL616eakD61cNpJ31Eo8QCxdv4Ef0qoTkY41a"
+    },
+    {
+      "id": 1752812085709,
+      "email": "josue@email.com",
+      "password": "$2b$12$0bl37/rJo3t6V1Xwdj63ZezzFIJVhIdQj7Fb1u1aty/b2EqeMf5K."
+    },
+    {
+      "id": 1752812256431,
+      "email": "josue@email.com",
+      "password": "$2b$12$7wX1wMp85qX.PtNjMIeWhuQcR7P.zeQs4sa0eU8RzCGRnFmGXSGAm"
+    },
+    {
+      "id": 1752813092825,
+      "password": "$2b$12$kiR827yZskZMJ8GELL1bZ.W8UoBBVAdW2fHdT370nlkhK6oey4U7m"
+    }
+  ],
+  "events": [
+    {
+      "id": 1752870868116,
+      "title": "Cumpleaños",
+      "description": "Es el cumpleaños de una persona especial a la que debo llevarle un regalo",
+      "date": "2025-10-10",
+      "category": "Cumpleaños"
+    },
+    {
+      "id": 1752870915026,
+      "title": "Pagar Luz",
+      "description": "Debo pagar la luz de este mes",
+      "date": "2025-07-18",
+      "category": "Pagos"
+    },
+    {
+      "id": 1752875878926,
+      "title": "Barcelona vs Real Madrid",
+      "description": "Ver el clasico",
+      "date": "2025-07-21",
+      "category": "Deportes"
+    }
+  ]
+}
